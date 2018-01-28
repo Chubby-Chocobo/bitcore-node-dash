@@ -53,6 +53,8 @@
     "commander": "^2.8.1",
     "errno": "^0.1.4",
     "express": "^4.13.3",
+    "insight-api-dash": "0.6.0",
+    "insight-ui-dash": "0.4.3",
     "liftoff": "^2.2.0",
     "lru-cache": "^4.0.1",
     "mkdirp": "0.5.0",
