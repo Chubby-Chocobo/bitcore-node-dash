@@ -1,7 +1,8 @@
 {
   "apps" : [{
     "name"              : "bitcore-node-dash",
-    "script"            : "./bin/bitcore-node-dash start",
+    "script"            : "./bin/bitcore-node-dash",
+    "args" 		: "start",
     "watch"             : false,
     "exec_interpreter"  : "/home/ec2-user/.nvm/versions/node/v4.8.7/bin/node"
   }]
